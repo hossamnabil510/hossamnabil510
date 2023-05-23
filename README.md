@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+</p>
 <h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Hossam, Welcome To My Github Profile ♥</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Amr, Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
-
+<h2>https://camo.githubusercontent.com/118f8b30f5c173d137163ea92f76ff52d633ec259c41713c1b9a0698fbb1a4b4/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d2b7bd988d98e2bd982d98fd984d9922bd8b1d98ed8a8d990d9912bd8b2d990d8afd992d986d990d98a2bd8b9d990d984d992d985d8a7d98b7d2bd982d8a7d9842bd8aad8b9d8a7d984d989</h2>
 <br/>
 <br/>
 
