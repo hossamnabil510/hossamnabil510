@@ -31,7 +31,7 @@
 
 - ### I’m currently learning 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![C++](https://img.shields.io/badge/-C++-563D7C?style=flat-square&logo=Bootstrap)
+![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
